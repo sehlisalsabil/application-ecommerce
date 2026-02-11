@@ -1,4 +1,4 @@
-package com.salsabil.application_ecommerce;
+package com.salsabil.applicationecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

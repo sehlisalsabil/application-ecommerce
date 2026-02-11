@@ -1,4 +1,4 @@
-package com.salsabil.application_ecommerce;
+package com.salsabil.applicationecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
